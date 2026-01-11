@@ -17,7 +17,6 @@ What I completed:
 
 Setup done. Data ready.
 
-
 # Day 1 Completed (09/01/2026)– Databricks 14 Days AI Challenge 
 
 I’ve completed Day 1 of the Databricks AI Challenge, and it was an exciting start to my journey into the Databricks Lakehouse ecosystem.
@@ -35,8 +34,6 @@ Tasks I Completed:
 • Ran basic PySpark commands
 
 <img width="1916" height="911" alt="image" src="https://github.com/user-attachments/assets/398efe51-0881-4da1-9456-945a599cded6" />
-
-Built strong Databricks fundamentals
 
 # Day 2 Completed (10/01/2026) – Databricks 14 Days AI Challenge
 I’ve completed Day 2 of the Databricks AI Challenge, where the focus was on building strong fundamentals in Apache Spark and understanding how data is processed at scale.
@@ -59,6 +56,27 @@ Tasks I Completed:
 
 <img width="1917" height="906" alt="image" src="https://github.com/user-attachments/assets/a479603e-6e15-474e-9695-f9d56d2f1b9b" />
 
-Strengthened Apache Spark core concepts
+# DAY 03 Completed (11/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve completed Day 3 of the Databricks AI Challenge, and today was all about going deeper into PySpark transformations and real-world data processing.
+
+What I Learned Today:
+• Key differences between PySpark and Pandas for large-scale data processing
+• Implementing joins (inner, left, right, full outer) in PySpark
+• Using window functions for running totals and ranking analytics
+• Creating and applying User-Defined Functions (UDFs)
+
+Tasks I Completed:
+• Loaded the full e-commerce dataset into Databricks
+• Performed complex joins across multiple tables
+• Calculated running totals using window functions
+• Built derived features for analytical use cases
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/05310af5-a450-4b35-91b8-5adc7f79082c" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/8aa58e9f-a09c-44ab-b189-7c80a5147e95" />
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e7451d2f-6b27-44d6-9f3b-ca0dbb1cee4b" />
+
 
 
