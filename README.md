@@ -149,6 +149,37 @@ Tasks I Completed:
 
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/b68b2ce3-1876-431a-9696-7b238d303e4b" />
 
+# DAY 07 Completed (15/01/2026) – Databricks 14 Days AI Challenge
+
+I’ve successfully completed Day 7 of the Databricks AI Challenge, focusing on orchestrating production-grade data pipelines using Databricks Jobs.
+
+What I Learned Today:
+• Differences between Databricks Jobs and notebooks
+• Building multi-task workflows for end-to-end pipelines
+• Using parameters and scheduling for automation
+• Implementing error handling and retries
+
+Tasks I Completed:
+• Added parameter widgets to notebooks
+• Created a multi-task job workflow (Bronze → Silver → Gold)
+• Configured task dependencies
+• Scheduled automated job execution
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/e8d4ef4b-5f17-4567-8c6c-420017623f29" />
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/9b50ca09-890c-4331-a702-ae7dfb45ecb1" />
+
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/7f0280f7-53cd-4dee-a73e-d309384d3c92" />
+
+<img width="1919" height="908" alt="image" src="https://github.com/user-attachments/assets/4cfd0efd-ff6d-4f94-822a-3cf9675d4cd4" />
+
+<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/e0a7691c-2b7d-4a74-a031-68c26ac1ec07" />
+
+
+
+
+
+
 
 
 
