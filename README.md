@@ -198,6 +198,43 @@ Tasks I Completed:
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/719340b9-0b05-4568-babd-3b6bfe88fb98" />
 
+# DAY 09 Completed (17/01/2026) – Databricks 14 Days AI Challenge
+I’ve successfully completed Day 9 of the Databricks AI Challenge, focusing on SQL Analytics and Dashboarding to transform curated data into actionable business insights using Databricks SQL.
+
+What I Learned Today:
+• SQL Warehouses and their role in scalable analytics
+• Writing complex analytical SQL queries
+• Building interactive dashboards
+• Creating effective visualizations and filters
+• Scheduling automated dashboard refreshes
+
+Tasks I Completed:
+• Created and configured a SQL Warehouse
+• Wrote analytical SQL queries for insights
+• Built dashboards covering
+• Revenue trends
+• Conversion funnels
+• Top-performing products
+• Added interactive filters and scheduled auto-refresh
+
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/27f503d2-e1e4-415e-811d-efd482063957" />
+
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/9ab7e7cd-db13-4d5d-a690-0a24ac41b5ef" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/52b978dd-63ba-4af6-b677-3f4d9d68a594" />
+
+<img width="1919" height="916" alt="image" src="https://github.com/user-attachments/assets/22551bda-cf23-4524-9e7e-ebf2de9a846e" />
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/1cd4755e-6826-4ff4-8818-d40f651741d3" />
+
+<img width="1915" height="906" alt="image" src="https://github.com/user-attachments/assets/fe979ccb-1210-45df-9187-a81b7e2c5c21" />
+
+<img width="1919" height="900" alt="image" src="https://github.com/user-attachments/assets/d429d1b1-ba4b-4feb-86b0-e22cbbf0cb86" />
+
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/faf90fab-eb2c-41dd-a0da-ce5e44848241" />
+
+
+
 
 
 
