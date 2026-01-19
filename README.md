@@ -252,6 +252,31 @@ Tasks I Completed:
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/49070167-20ff-4f00-8e6c-344d66a5ffc6" />
 
+# DAY 11 (19/01/26) – Statistical Analysis & ML Prep
+
+I’ve successfully completed Day 11 of the Databricks AI Challenge, focused on statistical analysis and preparing data for machine learning workflows.
+
+What I Learned Today:
+• Descriptive statistics for understanding data distributions
+• Hypothesis testing concepts and significance testing
+• A/B test design and evaluation
+• Feature engineering techniques for ML models
+
+Tasks I Completed:
+• Calculated statistical summaries to analyze key metrics
+• Tested hypotheses comparing weekday vs weekend behavior
+• Identified correlations among numerical features
+• Engineered features suitable for machine learning models
+
+<img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/c1ccac95-fcfa-4eca-8e9a-c7721d3df83c" />
+
+<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/f7eb6486-8d3d-4200-bcd3-de275b68c8f3" />
+
+<img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/eab53c87-5426-414a-a677-e28182b483c8" />
+
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/af2cf49d-6649-4e3e-92d3-4f89713ebcec" />
+
+
 
 
 
