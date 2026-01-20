@@ -25,6 +25,8 @@ What I completed:
 
 Setup done. Data ready.
 
+# PHASE 1: FOUNDATION (Days 1-4)
+
 # DAY 1 (09/01/26)– Platform Setup & First Steps
 
 I’ve completed Day 1 of the Databricks AI Challenge, and it was an exciting start to my journey into the Databricks Lakehouse ecosystem.
@@ -106,6 +108,7 @@ Tasks I Completed:
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/79a10663-afaa-4acc-bdfe-0055d801c372" />
 
+# PHASE 2: DATA ENGINEERING (Days 5-8)
 # DAY 5 (13/01/26) – Delta Lake Advanced
 I’ve successfully completed Day 5 of the Databricks AI Challenge, diving deep into advanced Delta Lake operations that enable reliable, high-performance data engineering workflows.
 
@@ -198,6 +201,7 @@ Tasks I Completed:
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/719340b9-0b05-4568-babd-3b6bfe88fb98" />
 
+# PHASE 3: ADVANCED ANALYTICS (Days 9-11)
 # DAY 9 (17/01/26) – SQL Analytics & Dashboards
 I’ve successfully completed Day 9 of the Databricks AI Challenge, focusing on SQL Analytics and Dashboarding to transform curated data into actionable business insights using Databricks SQL.
 
@@ -275,6 +279,31 @@ Tasks I Completed:
 <img width="1916" height="915" alt="image" src="https://github.com/user-attachments/assets/eab53c87-5426-414a-a677-e28182b483c8" />
 
 <img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/af2cf49d-6649-4e3e-92d3-4f89713ebcec" />
+
+# PHASE 4: AI & ML (Days 12-14)
+# DAY 12 (20/01/26) – MLflow Basics
+
+I successfully completed Day 12 of the Databricks AI Challenge, focused on MLflow fundamentals and experiment tracking.
+
+What I Learned Today:
+• MLflow components (tracking, models, registry)
+• Experiment tracking concepts
+• Logging parameters, metrics, and models
+• Using MLflow UI to analyze runs
+• Comparing multiple model runs
+
+Tasks I Completed:
+• Trained simple regression models
+• Logged parameters, metrics, and models to MLflow
+• Viewed experiment runs in MLflow UI
+• Compared model performance across runs
+
+<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/b6e5a3ee-a02d-4890-a76c-adbe1472bfd0" />
+
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/bc86d95f-abe1-4d5a-97ae-920952106419" />
+
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/7e43a517-6aae-435f-89ef-ebef103a5018" />
+
 
 
 
