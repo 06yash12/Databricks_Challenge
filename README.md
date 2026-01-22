@@ -330,6 +330,19 @@ Tasks I Completed:
 <img width="1919" height="905" alt="image" src="https://github.com/user-attachments/assets/a6970511-9ced-4e61-95d7-e87d410236c7" />
 
 
+# DAY 14 Completed (22/01/2026) – AI-Powered Analytics: Genie & Mosaic AI
+I successfully completed Day 14 of the Databricks AI Challenge, focused on exploring AI-assisted analytics using natural language, Genie, and Mosaic AI capabilities.
+
+What I Learned Today: • Using Databricks Genie to convert natural language into SQL • Core capabilities of Mosaic AI • Integrating Generative AI into data workflows • Leveraging AI for faster, insight-driven analysis
+
+Tasks I Completed: • Queried data using natural language via Genie • Explored Mosaic AI features and use cases • Built a simple NLP-based task • Generated AI-powered analytical insights
+<img width="1919" height="903" alt="image" src="https://github.com/user-attachments/assets/f3f4f7ff-b0d1-415a-8ff8-e94726f57f81" />
+<img width="1915" height="864" alt="image" src="https://github.com/user-attachments/assets/89658e82-a723-4f36-be81-8d436aea5773" />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b3b4ad3b-49c8-4acc-8b24-eaa5100005e1" />
+<img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/fb3c109f-c66d-4c55-aa24-fd26151942f2" />
+
+
+
 
 
 
