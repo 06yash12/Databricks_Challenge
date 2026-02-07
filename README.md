@@ -12,6 +12,17 @@ I’m looking forward to strengthening my fundamentals in Databricks, Apache Spa
 
 Grateful for the support and initiative by [Databricks,](https://databricks.com/) [Codebasics](https://codebasics.io/) and [Indian Data Club.](https://www.linkedin.com/company/indian-data-club/)
 
+## Certificate
+
+Received this Certificate of Appreciation for completing the Databricks 14 Days AI Challenge with Indian Data Club and Codebasics. It reflects consistent learning, hands-on practice, and a strong interest in AI and data engineering.
+
+<a href="https://drive.google.com/file/d/1OAdHd7A1TByYeg-Jh1HCXsVac5Bfp1xn/view" 
+   title="Open certificate on Google Drive" 
+   target="_blank">
+View Certificate
+</a>
+
+
 # Day 0 (08/01/26)– Setup & Data Loading  
 
 Focused on setting up the environment and preparing data before starting Day 1.
