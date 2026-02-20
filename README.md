@@ -352,6 +352,31 @@ Tasks I Completed: • Queried data using natural language via Genie • Explore
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/b3b4ad3b-49c8-4acc-8b24-eaa5100005e1" />
 <img width="1919" height="898" alt="image" src="https://github.com/user-attachments/assets/fb3c109f-c66d-4c55-aa24-fd26151942f2" />
 
+---
+<p align="center">
+  <h2> </h2>
+</p>
+
+<p align="center">
+  Challenge 1 Complete -- 14 Days. Countless Learnings. Real Growth.
+</p>
+
+<p align="center">
+  This repository captures my journey through the Databricks Challenge —  
+  from foundational Spark concepts to Delta Lake, MLflow and AI-powered analytics.
+</p>
+
+<p align="center">
+  What started as exploration evolved into building real-world data pipelines,  
+  optimizing performance and understanding production-grade workflows.
+</p>
+
+<p align="center">
+  Stronger fundamentals. Sharper thinking. Better engineering.
+</p>
+
+---
+
 
 
 
