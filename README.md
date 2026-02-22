@@ -362,11 +362,6 @@ Tasks I Completed: • Queried data using natural language via Genie • Explore
 </p>
 
 <p align="center">
-  This repository captures my journey through the Databricks Challenge —  
-  from foundational Spark concepts to Delta Lake, MLflow and AI-powered analytics.
-</p>
-
-<p align="center">
   What started as exploration evolved into building real-world data pipelines,  
   optimizing performance and understanding production-grade workflows.
 </p>
